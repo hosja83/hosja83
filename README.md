@@ -1,8 +1,5 @@
-```html
-<h2>Example of code</h2>
+# Greetings! 👋
 
-<div style="font-size:100;">Greetings! 👋</div>
-```
 
 
 
