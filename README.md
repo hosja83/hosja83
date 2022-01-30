@@ -13,7 +13,7 @@
 
 <table align="center">
   <tr>
-    <th width="450"><!--483-->
+    <th width="430"><!--483-->
       <h3>🔭 Things I know . . .</h3>
       <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
       <img width="90" height="40" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black">
