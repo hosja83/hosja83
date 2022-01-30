@@ -28,7 +28,7 @@
       <img width="90" height="40" alt="Node.js Logo" src="https://badges.aleen42.com/src/node.svg">
       <img width="90" height="40" alt="Jest" src="https://img.shields.io/badge/-Jest-%23C21325?logo=jest&labelColor=white&logoColor=C21325">
       <img width="90" height="40" alt="JUnit" src="https://img.shields.io/badge/-JUnit-%2325A162?logo=junit5&labelColor=white">
-      <h3>🌱 Things to study . . .</h3>  
+      <h3>🌱 Things I study . . .</h3>  
       <img width="65" height="40" alt="C# Logo" src="https://img.shields.io/badge/-C%23-%232b0976">
       <img width="70" height="40" alt="C++ Logo" src="https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=c++">
       <img width="90" height="40" alt="Oracle SQL Logo" src="https://img.shields.io/badge/-Oracle%20SQL-%23F80000?logo=oracle&logoColor=F80000&labelColor=white">
