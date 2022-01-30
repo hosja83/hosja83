@@ -1,15 +1,15 @@
 <h1 align="center">Greetings! 👋</h1>
 
-<p align="center">👂 My name is Alhosainy Altaher (🔊 listen).</p>
-<p align="center"> 💼 Software Engineer at <a href="http://guilfordmotors.com/">Guilford Motors</a>.</p>
-<p align="center">📫 How to reach me ==> 
+<h4 align="center">👂 My name is Alhosainy Altaher (🔊 listen).</h4>
+<h4 align="center"> 💼 Software Engineer at <a href="http://guilfordmotors.com/">Guilford Motors</a>.</h4>
+<h4 align="center">📫 How to reach me ==> 
   <a href="https://www.linkedin.com/in/alhosainy-altaher-62597072/" color="none">
     <img align="center" width="90px" height="26px" src="/linkedin-image.png" alt="LinkedIn's logo">
   </a>
   <a href="mailto:alhosainy.altaher@gmail.com">
     <img align="center" width="60px" height="35px" src="/gmail-img.jpg" alt="Google Mail Icon">
   </a>
-</p>
+</h4>
 
 
 <table align="center">
