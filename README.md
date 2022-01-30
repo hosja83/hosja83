@@ -41,10 +41,10 @@
     </th>
     <td>
       <a href="https://github.com/hosja83/">
-        <img height="220" width="495" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosja83&layout=compact&bg_color=45,375d16,84c1d5,d7522d&title_color=fff&text_color=fff" alt="Alhosainy's most used languages">
+        <img height="220px" width="495px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosja83&layout=compact&bg_color=45,375d16,84c1d5,d7522d&title_color=fff&text_color=fff" alt="Alhosainy's most used languages">
       </a> 
       <a href="https://github.com/hosja83/">
-        <img height="220" width="495" align="right" src="https://github-readme-stats.vercel.app/api?username=hosja83&show_icons=true&include_all_commits=true&bg_color=45,375d16,84c1d5,d7522d&title_color=fff&text_color=fff" alt="Alhosainy's github stats">
+        <img height="220px" width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=hosja83&show_icons=true&include_all_commits=true&bg_color=45,375d16,84c1d5,d7522d&title_color=fff&text_color=fff" alt="Alhosainy's github stats">
     </td>
   </tr>
 </table>
