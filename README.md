@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! 👋</h1>
 
 <h4 align="center">👂 My name is Alhosainy Altaher (<a target="_blank" rel="noreferrer noopener" href="https://user-images.githubusercontent.com/43458977/151719099-6d173be2-0720-46b3-a13c-307f634f5489.mp4">🔊</a> click to listen).</h4>
-<h4 align="center"> 💼 Software Engineer at <a rel="noreferrer noopener" href="http://guilfordmotors.com/">Guilford Motors</a>.</h4>
+<h4 align="center"> 💼 Software Engineer at <a rel="noreferrer noopener nofollow" href="http://guilfordmotors.com/">Guilford Motors</a>.</h4>
 <h4 align="center">📫 How to reach me ==> 
   <a rel="noreferrer noopener" href="https://www.linkedin.com/in/alhosainy-altaher-62597072/" color="none">
     <img align="center" width="90px" height="26px" src="/linkedin-image.png" alt="LinkedIn's logo">
