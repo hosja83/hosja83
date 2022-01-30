@@ -20,19 +20,15 @@
       <img width="90" height="40" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black">
       <img width="60" height="40" src="https://img.shields.io/badge/-C-%23273593">
       <img width="90" height="40" src="https://img.shields.io/badge/-Python-%23ffdb4a?logo=python">
-      <img width="70" height="40" src="https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=c++">
       <img width="90" height="40" src="https://img.shields.io/badge/-CSS-%231572B6?logo=css3">
       <img width="90" height="40" src="https://img.shields.io/badge/-JSON-%23000000?logo=json&logoColor=white&labelColor=grey&color=white">
-      <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
-      <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
-      <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
-      <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
-      <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
-      <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
-      <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
-      <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
+      <img width="90" height="40" src="https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&labelColor=E34F26&logoColor=white">
+      <img width="70" height="40" src="https://img.shields.io/badge/-XML-lightgrey?labelColor=#de5934">
+      <img width="90" height="40" src="https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&labelColor=412f1f">
+      <img width="90" height="40" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white">
       <div>Things to study . . .</div>  
       <img width="65" height="40" src="https://img.shields.io/badge/-C%23-%232b0976">
+      <img width="70" height="40" src="https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=c++">
     </th>
     <td>
       <a href="https://github.com/hosja83/">
