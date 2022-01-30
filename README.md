@@ -1,12 +1,12 @@
 <h1 align="center">Greetings! 👋</h1>
 
-<h4 align="center">👂 My name is Alhosainy Altaher (<a target="_blank" href="https://user-images.githubusercontent.com/43458977/151719099-6d173be2-0720-46b3-a13c-307f634f5489.mp4">🔊</a> click to listen).</h4>
-<h4 align="center"> 💼 Software Engineer at <a href="http://guilfordmotors.com/">Guilford Motors</a>.</h4>
+<h4 align="center">👂 My name is Alhosainy Altaher (<a target="_blank" rel="noreferrer noopener" href="https://user-images.githubusercontent.com/43458977/151719099-6d173be2-0720-46b3-a13c-307f634f5489.mp4">🔊</a> click to listen).</h4>
+<h4 align="center"> 💼 Software Engineer at <a rel="noreferrer noopener" href="http://guilfordmotors.com/">Guilford Motors</a>.</h4>
 <h4 align="center">📫 How to reach me ==> 
-  <a href="https://www.linkedin.com/in/alhosainy-altaher-62597072/" color="none">
+  <a rel="noreferrer noopener" href="https://www.linkedin.com/in/alhosainy-altaher-62597072/" color="none">
     <img align="center" width="90px" height="26px" src="/linkedin-image.png" alt="LinkedIn's logo">
   </a>
-  <a href="mailto:alhosainy.altaher@gmail.com">
+  <a rel="noreferrer noopener" href="mailto:alhosainy.altaher@gmail.com">
     <img align="center" width="60px" height="35px" src="/gmail-img.jpg" alt="Google Mail Icon">
   </a>
 </h4>
@@ -42,10 +42,10 @@
       <img width="100" height="40" src="https://badges.aleen42.com/src/angular.svg">      
     </th>
     <td>
-      <a href="https://github.com/hosja83/">
+      <a rel="noreferrer noopener" href="https://github.com/hosja83/">
         <img height="220px" width="495px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosja83&layout=compact&bg_color=45,375d16,0188a5,d7522d&title_color=fff&text_color=fff" alt="Alhosainy's most used languages">
       </a> 
-      <a href="https://github.com/hosja83/">
+      <a rel="noreferrer noopener" href="https://github.com/hosja83/">
         <img height="220px" width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=hosja83&show_icons=true&include_all_commits=true&bg_color=45,375d16,0188a5,d7522d&title_color=fff&text_color=fff&icon_color=ebde77" alt="Alhosainy's github stats">
     </td>
   </tr>
