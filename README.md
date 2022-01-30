@@ -31,7 +31,7 @@
       <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
       <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
       <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
-      <div>Things I've been studying lately . . .</div>  
+      <div>Things to study . . .</div>  
       <img width="65" height="40" src="https://img.shields.io/badge/-C%23-%232b0976">
     </th>
     <td>
