@@ -11,11 +11,10 @@
   </a>
 </h4>
 
-
 <table align="center">
   <tr>
     <th width="483">
-      <h3>Things I know . . .</h3>
+      <h3>🔭 Things I know . . .</h3>
       <img width="90" height="40" src="https://img.shields.io/badge/-Java-%23007396?logo=java">
       <img width="90" height="40" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=javascript&logoColor=black">
       <img width="60" height="40" src="https://img.shields.io/badge/-C-%23273593">
@@ -29,7 +28,7 @@
       <img width="90" height="40" src="https://badges.aleen42.com/src/node.svg">
       <img width="90" height="40" src="https://img.shields.io/badge/-Jest-%23C21325?logo=jest&labelColor=white&logoColor=C21325">
       <img width="90" height="40" src="https://img.shields.io/badge/-JUnit-%2325A162?logo=junit5&labelColor=white">
-      <h3>Things to study . . .</h3>  
+      <h3>🌱 Things to study . . .</h3>  
       <img width="65" height="40" src="https://img.shields.io/badge/-C%23-%232b0976">
       <img width="70" height="40" src="https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=c++">
       <img width="90" height="40" src="https://img.shields.io/badge/-Oracle%20SQL-%23F80000?logo=oracle&logoColor=F80000&labelColor=white">
