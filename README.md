@@ -48,6 +48,8 @@
   </tr>
 </table>
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hosja83&repo=github-readme-stats)
+
 <!--
 **hosja83/hosja83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
