@@ -23,6 +23,7 @@
       <img width="90" height="40" alt="HTML Logo" src="https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&labelColor=E34F26&logoColor=white">
       <img width="70" height="40" alt="XML Logo" src="https://img.shields.io/badge/-XML-lightgrey?labelColor=#de5934">
       <img width="100" height="40" alt="MongoDB Logo" src="https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&labelColor=412f1f">
+      <img width="100" height="40" alt="ExpressJS Logo" src="https://img.shields.io/badge/Express-JS-%23F7DE3A?labelColor=grey">
       <img width="90" height="40" alt="React Logo" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white">
       <img width="90" height="40" alt="Node.js Logo" src="https://badges.aleen42.com/src/node.svg">
       <img width="90" height="40" alt="Jest" src="https://img.shields.io/badge/-Jest-%23C21325?logo=jest&labelColor=white&logoColor=C21325">
