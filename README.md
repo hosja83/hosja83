@@ -22,7 +22,7 @@
       <img width="90" height="40" alt="JSON Logo" src="https://img.shields.io/badge/-JSON-%23000000?logo=json&logoColor=white&labelColor=grey&color=white">
       <img width="90" height="40" alt="HTML Logo" src="https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&labelColor=E34F26&logoColor=white">
       <img width="70" height="40" alt="XML Logo" src="https://img.shields.io/badge/-XML-lightgrey?labelColor=#de5934">
-      <img width="90" height="40" alt="Oracle PL/SQL Logo" src="https://img.shields.io/badge/-Oracle%20SQL-%23F80000?logo=oracle&logoColor=F80000&labelColor=white">
+      <img width="90" height="40" alt="Oracle PL/SQL Logo" src="https://img.shields.io/badge/-Oracle%20PL/SQL-%23F80000?logo=oracle&logoColor=F80000&labelColor=white">
       <img width="100" height="40" alt="MongoDB Logo" src="https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&labelColor=412f1f">
       <img width="100" height="40" alt="ExpressJS Logo" src="https://img.shields.io/badge/Express-JS-%23F7DE3A?labelColor=f4f4f4">
       <img width="90" height="40" alt="React Logo" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white">
