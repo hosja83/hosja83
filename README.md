@@ -22,6 +22,7 @@
       <img width="90" height="40" alt="JSON Logo" src="https://img.shields.io/badge/-JSON-%23000000?logo=json&logoColor=white&labelColor=grey&color=white">
       <img width="90" height="40" alt="HTML Logo" src="https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&labelColor=E34F26&logoColor=white">
       <img width="70" height="40" alt="XML Logo" src="https://img.shields.io/badge/-XML-lightgrey?labelColor=#de5934">
+      <img width="90" height="40" alt="Oracle PL/SQL Logo" src="https://img.shields.io/badge/-Oracle%20SQL-%23F80000?logo=oracle&logoColor=F80000&labelColor=white">
       <img width="100" height="40" alt="MongoDB Logo" src="https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&labelColor=412f1f">
       <img width="100" height="40" alt="ExpressJS Logo" src="https://img.shields.io/badge/Express-JS-%23F7DE3A?labelColor=f4f4f4">
       <img width="90" height="40" alt="React Logo" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white">
@@ -31,7 +32,6 @@
       <h3>🌱 Things I study . . .</h3>  
       <img width="65" height="40" alt="C# Logo" src="https://img.shields.io/badge/-C%23-%232b0976">
       <img width="70" height="40" alt="C++ Logo" src="https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=c++">
-      <img width="90" height="40" alt="Oracle SQL Logo" src="https://img.shields.io/badge/-Oracle%20SQL-%23F80000?logo=oracle&logoColor=F80000&labelColor=white">
       <img width="90" height="40" alt="Microsoft SSQL Logo" src="https://img.shields.io/badge/-MSSQL-%23F80000?logo=microsoftsqlserver&logoColor=CC2927&color=f2f2f2&labelColor=2a2f45">
       <img width="100" height="40" alt="PostgreSQL Logo"src="https://img.shields.io/badge/-PostgreSQL-%234169E1?logo=postgresql&labelColor=white&logoColor=4169E1"> 
       <img width="90" height="40" alt="MySQL Logo"src="https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=d88700&labelColor=white">
