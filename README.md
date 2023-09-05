@@ -5,7 +5,7 @@
 <!--   <a rel="noreferrer noopener" href="https://www.linkedin.com/in/alhosainy-altaher-62597072/" color="none">
     <img align="center" width="90px" height="26px" src="/linkedin-image.png" alt="LinkedIn's logo">
   </a> -->
-  <a rel="noreferrer noopener" href="mailto:alhosainy.altaher@gmail.com">
+  <a rel="noreferrer noopener" href="mailto:hosainy.altaher@gmail.com">
     <img align="center" width="60px" height="35px" src="/gmail-img.jpg" alt="Google Mail Icon">
   </a>
 </h4>
