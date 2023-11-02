@@ -44,7 +44,7 @@
         <img height="220px" width="495px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosja83&layout=compact&bg_color=45,375d16,0188a5,d7522d&title_color=fff&text_color=fff&custom_title=Most%20Recently%20Used%20Languages%22" alt="Alhosainy's most used languages">
       </a> 
       <a rel="noreferrer noopener" href="https://github.com/hosja83/">
-        <img height="220px" width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=hosja83&show_icons=true&include_all_commits=true&bg_color=45,375d16,0188a5,d7522d&title_color=fff&text_color=fff&icon_color=ebde77" alt="Alhosainy's github stats">
+        <img height="220px" width="495px" align="right" src="https://streak-stats.demolab.com/?user=hosja83&theme=dayfox" alt="Alhosainy's github stats">
     </td>
   </tr>
 </table>
