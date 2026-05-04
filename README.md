@@ -39,13 +39,13 @@
       <img width="90" height="40" alt="Vue JavaScript Logo" src="https://badges.aleen42.com/src/vue.svg">   
       <img width="100" height="40" alt="Angular JavaScript Logo" src="https://badges.aleen42.com/src/angular.svg">      
     </th>
-    <td>
+    <!-- <td>
       <!-- <a rel="noreferrer noopener" href="https://github.com/hosja83/">
         <img height="220px" width="495px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosja83&layout=compact&bg_color=45,375d16,0188a5,d7522d&title_color=fff&text_color=fff&custom_title=Most%20Recently%20Used%20Languages%22" alt="Alhosainy's most used languages">
       </a>  -->
       <a rel="noreferrer noopener" href="https://github.com/hosja83/">
 <!--         <img height="220px" width="495px" align="right" src="https://streak-stats.demolab.com/?user=hosja83&theme=dayfox" alt="Alhosainy's github stats"> -->
-    </td>
+    </td> -->
   </tr>
 </table>
 
