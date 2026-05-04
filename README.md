@@ -29,23 +29,23 @@
       <img width="90" height="40" alt="Node.js Logo" src="https://badges.aleen42.com/src/node.svg">
       <img width="90" height="40" alt="Jest" src="https://img.shields.io/badge/-Jest-%23C21325?logo=jest&labelColor=white&logoColor=C21325">
       <img width="90" height="40" alt="JUnit" src="https://img.shields.io/badge/-JUnit-%2325A162?logo=junit5&labelColor=white">
-      <h3>🌱 Things I study . . .</h3>  
+      <!-- <h3>🌱 Things I study . . .</h3>  
       <img width="65" height="40" alt="C# Logo" src="https://img.shields.io/badge/-C%23-%232b0976">
       <img width="70" height="40" alt="C++ Logo" src="https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=c++">
       <img width="90" height="40" alt="Microsoft SSQL Logo" src="https://img.shields.io/badge/-MSSQL-%23F80000?logo=microsoftsqlserver&logoColor=CC2927&color=f2f2f2&labelColor=2a2f45">
       <img width="100" height="40" alt="PostgreSQL Logo"src="https://img.shields.io/badge/-PostgreSQL-%234169E1?logo=postgresql&labelColor=white&logoColor=4169E1"> 
-      <img width="90" height="40" alt="MySQL Logo"src="https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=d88700&labelColor=white">
+      img width="90" height="40" alt="MySQL Logo"src="https://img.shields.io/badge/-MySQL-%234479A1?logo=mysql&logoColor=d88700&labelColor=white">
       <img width="70" height="40" alt=".NET Logo" src="https://img.shields.io/badge/-.NET-%23512BD4">
       <img width="90" height="40" alt="Vue JavaScript Logo" src="https://badges.aleen42.com/src/vue.svg">   
-      <img width="100" height="40" alt="Angular JavaScript Logo" src="https://badges.aleen42.com/src/angular.svg">      
+      <img width="100" height="40" alt="Angular JavaScript Logo" src="https://badges.aleen42.com/src/angular.svg">       -->
     </th>
-    <!-- <td>
+    <td>
       <!-- <a rel="noreferrer noopener" href="https://github.com/hosja83/">
         <img height="220px" width="495px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosja83&layout=compact&bg_color=45,375d16,0188a5,d7522d&title_color=fff&text_color=fff&custom_title=Most%20Recently%20Used%20Languages%22" alt="Alhosainy's most used languages">
-      </a>  -->
+      </a>   -->
       <a rel="noreferrer noopener" href="https://github.com/hosja83/">
-<!--         <img height="220px" width="495px" align="right" src="https://streak-stats.demolab.com/?user=hosja83&theme=dayfox" alt="Alhosainy's github stats"> -->
-    </td> -->
+         <img height="220px" width="495px" align="right" src="https://streak-stats.demolab.com/?user=hosja83&theme=dayfox" alt="Alhosainy's github stats"> 
+    </td>
   </tr>
 </table>
 
